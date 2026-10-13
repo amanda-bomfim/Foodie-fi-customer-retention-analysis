@@ -194,7 +194,7 @@ Como a tabela original de assinaturas só guarda o início de cada plano, foi de
 Projeto desenvolvido por **Amanda Bomfim**.
 
 <p align="left">
-  <a href="www.linkedin.com/in/amandabomfim-data">
+  <a href="[www.linkedin.com/in/amandabomfim-data](https://www.linkedin.com/in/amandabomfim-data/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/amanda-bomfim">
